@@ -1,0 +1,32 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    background: url(images/gu.webp);
+    background-size: cover;
+    background-repeat: repeat-y;
+    background-attachment: scroll;
+}
+
+h1 {
+    color: #000;
+    font-size: 150px;
+    text-align: center;
+    padding-top: 380px;
+    mix-blend-mode: overlay;
+    font-family: "Trirong";
+    letter-spacing: 20px;
+}
+
+table {
+   position:absolute;
+   top:0;
+   right: 0;
+    width: 38% ;
+    height: 50px;
+    background-color: rgb(248, 242, 245); opacity:0.5;
+    font-size: 20px;
+  
+}
